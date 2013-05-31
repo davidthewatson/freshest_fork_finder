@@ -12,4 +12,6 @@ shotgun fff.ru
 
 Visit http://localhost:9393/ in the browser.
 
+![github.com Freshest Fork Finder](https://github.com/davidthewatson/freshest_fork_finder/raw/master/freshest_fork_finder.png)
+
 ### Have fun!
