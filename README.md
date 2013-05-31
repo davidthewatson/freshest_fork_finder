@@ -8,7 +8,7 @@ Less than 100 lines of ruby scorched strapdown code that takes a github reposito
 * gem install rest-client
 * gem install shotgun
 
-shotgun fff.ru
+    shotgun fff.ru
 
 Visit http://localhost:9393/ in the browser.
 
